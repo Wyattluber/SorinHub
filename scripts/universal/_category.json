@@ -1,0 +1,53 @@
+{
+       "category": "Universal",
+       "icon": "🌐",
+       "description": "Scripts die in allen Games funktionieren",
+       "color": "#7C50A0",
+       "priority": 1,
+       "scripts": [
+         {
+           "name": "Infinite Yield",
+           "file": "infinite-yield.lua",
+           "description": "Mächtige Admin Commands - Der Klassiker für alle Games",
+           "author": "EdgeIY",
+           "working": true,
+           "verified": true,
+           "tags": ["admin", "commands", "universal", "popular"],
+           "version": "5.12.1",
+           "risk_level": "low"
+         },
+         {
+           "name": "Dark Dex",
+           "file": "dark-dex.lua",
+           "description": "Advanced Object Explorer - Untersuche Game-Objekte im Detail",
+           "author": "Moon",
+           "working": true,
+           "verified": true,
+           "tags": ["explorer", "debugging", "advanced", "development"],
+           "version": "3.0.0",
+           "risk_level": "low"
+         },
+         {
+           "name": "Simple Spy",
+           "file": "simple-spy.lua",
+           "description": "Remote Event/Function Spy Tool für Script-Entwicklung",
+           "author": "exx",
+           "working": true,
+           "verified": true,
+           "tags": ["spy", "remotes", "debugging", "development"],
+           "version": "2.0.0",
+           "risk_level": "low"
+         },
+         {
+           "name": "Owl Hub",
+           "loadstring_url": "https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt",
+           "description": "Multi-Game Script Hub mit vielen Features",
+           "author": "CriShoux",
+           "working": true,
+           "verified": true,
+           "tags": ["hub", "multi-game", "popular", "collection"],
+           "version": "2.1.0",
+           "risk_level": "medium"
+         }
+       ]
+     }
